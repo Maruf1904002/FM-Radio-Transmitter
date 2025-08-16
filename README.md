@@ -49,4 +49,6 @@ This project involves designing, building, and testing a **high-fidelity FM tran
 ---
 
 ## Repository Structure
+/Photos/assembled_board.jpg
+/Circuit_Diagrams/schematic.png
 
